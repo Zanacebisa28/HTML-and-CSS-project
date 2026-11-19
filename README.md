@@ -4,6 +4,7 @@ This project was created using HTML and CSS to practise front-end web developmen
 
 # Technologies Used
 HTML5
+
 CSS3
 # Status
 Work in Progress 🚀
